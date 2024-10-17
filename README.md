@@ -40,7 +40,7 @@
 
   - In this case, $\text{maximum } R_c = 40.3285$ such that nodes within $40.3285 \text{ units}$ of each other are connected
  
-  - For this distribution of devices, $40.3285$ is the minimum line segment length necessary to create a fully connected network
+  - For this distribution of devices, $40.3285$ is the minimum line segment length necessary for a fully connected network
 
     - (Look at the super long line at the bottom! If $\text{maximum } R_c < 40.3285$, then the node there would be disconnected)
 
