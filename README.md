@@ -2,7 +2,7 @@
 
 # What is an Ad hoc Network?
 
-- Nowadays, we rely heavily on our cell phones to receive messages and communicate with others around the world
+- Nowadays, we rely on our cell phones to receive messages and communicate with others around the world
 
 - Traditionally, these cell phones needed to communicate with a nearby base station in order to send and receive calls
 
