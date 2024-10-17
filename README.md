@@ -42,6 +42,8 @@
  
   - For this distribution of devices, $40.3285$ is the minimum line segment length necessary to create a fully connected network
 
+    - (Look at the super long line at the bottom! If $\text{maximum } R_c < 40.3285$, then the node there would be disconnected)
+
 # Connected Ad Hoc Network
 
 - An **ad hoc network** is *connected* if any abitrary node can reach every other node by traversing across line segments
