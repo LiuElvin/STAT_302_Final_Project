@@ -22,15 +22,15 @@
 
 - An **ad hoc wireless network** with 6 disconnected clusters/components
 
-<p align="center">
-<img src="./img/rc_3.5.png" width="500"/>
-</p>
-
   - Note that each node corresponds an abitrary device in (x, y) space
 
   - Line segments show connected nodes in the network
 
   - $R[c] = 3.75$ such that any nodes within 3.75 units of each other are connected
+
+<p align="center">
+<img src="./img/rc_3.5.png" width="500"/>
+</p>
 
 - An **ad hoc wireless network** with 0 disconnected clusters/components (fully connected)
 
