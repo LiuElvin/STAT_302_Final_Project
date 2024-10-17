@@ -23,7 +23,7 @@
 - An **ad hoc wireless network** with 6 disconnected clusters/components
 
 <p align="center">
-<img src="./img/rc_3.5.png" width="700"/>
+<img src="./img/rc_3.5.png" width="500"/>
 </p>
 
   - Note that each node corresponds an abitrary device in (x, y) space
