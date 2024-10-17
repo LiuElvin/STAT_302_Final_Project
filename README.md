@@ -1,6 +1,6 @@
 # Ad hoc Network (STAT 302 Final Project)
 
-## What is an Ad hoc Network?
+# What is an Ad hoc Network?
 
 - Nowadays, we rely heavily on our cell phones to receive messages and communicate with others around the world
 
@@ -23,10 +23,10 @@
 - An **ad hoc wireless network** with 6 disconnected clusters/components
 
 <p align="center">
-<img src="./img/ad_hoc6.png" width="300"/>
+<img src="./img/rc_3.5.png" width="300"/>
 </p>
 
-- An **ad hoc wireless network** with 0 disconnected clusters/components
+- An **ad hoc wireless network** with 0 disconnected clusters/components (fully connected)
 
 <p align="center">
 <img src="./img/ad_hoc6.png" width="300"/>
