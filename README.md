@@ -26,6 +26,12 @@
 <img src="./img/rc_3.5.png" width="700"/>
 </p>
 
+  - Note that each node corresponds an abitrary device in (x, y) space
+
+  - Line segments show connected nodes in the network
+
+  - $R[c] = 3.75$ such that any nodes within 3.75 units of each other are connected
+
 - An **ad hoc wireless network** with 0 disconnected clusters/components (fully connected)
 
 <p align="center">
