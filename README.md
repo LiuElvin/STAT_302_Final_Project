@@ -51,20 +51,22 @@
   - This is what we want for our communication systems!
 
 - So, it shouldn't be surprising that we are interested in *connected networks*
-  
-- Given a particular configuration of nodes, we want to know the smallest radius $R_c$ that makes a connected network.
 
-- We also want to study the distribution of $R_c$ for different configurations of the nodes.
+  - Specifically, we are interested in the minimum device range necessary to create a *connected* path
+ 
+## Goal
 
-## Simulation Study for Ad Hoc Network
+- Given a particular configuration of nodes, we want to know the smallest radius $R_c$ that makes a connected network
+
+- Additionally, we want to study the distribution of $R_c$ for different configurations of nodes
+
+# Simulation Study for Ad Hoc Network
 
 1. We will randomly generate nodes for an ad hoc network according to some pre-specified node density (generally determined by the geographical information).
-
 
 <p align="center">
 <img src="./img/contour_3d.jpeg" width="400"/>
 </p>
-
 
 ## Simulation Study for Ad Hoc Network
 
