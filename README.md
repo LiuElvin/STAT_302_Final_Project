@@ -63,6 +63,8 @@
 
 4. Study the distribution of $R_c$.
 
+A more detailed specification is provided in the pdf file below:
+
 [Project Description](https://raw.githubusercontent.com/zhangyk8/zhangyk8.github.io/master/_teaching/file_stat302/Lectures/Final_Project.pdf)
 
 ---
