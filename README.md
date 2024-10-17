@@ -21,7 +21,7 @@
 ## Examples of the Ad Hoc Network
 
 <p align="center">
-<img src="./img/rc_example.png" width="500"/>
+<img src="./img/rc_example.png" width="100%"/>
 </p>
 
 - Above is an **ad hoc wireless network** with 6 disconnected clusters/components
@@ -33,7 +33,7 @@
   - In this case, all nodes within $3.75 \text{ units}$ of each other are connected
 
 <p align="center">
-<img src="./img/rc_maximum.png" width="500"/>
+<img src="./img/rc_maximum.png" width="100%"/>
 </p>
 
 - Above is an **ad hoc wireless network** with 0 disconnected clusters/components (fully connected)
@@ -61,13 +61,13 @@
 - Given a particular configuration of nodes, we want to know the smallest radius $R_c$ that connects a network
 
 <p align="center">
-<img src="./img/rc_median.png" width="500"/>
+<img src="./img/rc_median.png" width="100%"/>
 </p>
 
 - Additionally, we want to study the distribution of $R_c$ for different configurations of nodes
 
 <p align="center">
-<img src="./img/distribution.png" width="500"/>
+<img src="./img/distribution.png" width="100%"/>
 </p>
 
 # Simulation Study for Ad Hoc Network
