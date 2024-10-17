@@ -1,5 +1,9 @@
 # Ad hoc Network (STAT 302 Final Project)
 
+The specifications are provided in the pdf here:
+
+[Project Description](https://raw.githubusercontent.com/zhangyk8/zhangyk8.github.io/master/_teaching/file_stat302/Lectures/Final_Project.pdf)
+
 # What is an Ad hoc Network?
 
 - Nowadays, we rely on our cell phones to receive messages and communicate with others around the world
@@ -99,19 +103,23 @@
 
 A more detailed specification is provided in the pdf file below:
 
-[Project Description](https://raw.githubusercontent.com/zhangyk8/zhangyk8.github.io/master/_teaching/file_stat302/Lectures/Final_Project.pdf)
+
 
 ---
 
-## Contributions
+# Contributions
 
-- The spec provided me the nodeDensity function alongside the first two test cases.
+- The spec provided me the nodeDensity function alongside the first two test cases
 
-- I worked on this project alone, so the remaining R code was done by me.
+  - All credit for the spec goes to my instructor, [Yikun Zhang](https://zhangyk8.github.io/teaching/stat302_uw)
+ 
+- I worked on the project alone, so all remaining R code was completed by myself
 
 # Learning Outcomes
 
 - Application of R packages and functions learnt in STAT 302 (tidyverse, ggplot, etc.)
+
+- Use of Dijkstra's algorithm to test whether each node can reach each other node
 
 - Application of linear algebra to produce sparse networks
 
