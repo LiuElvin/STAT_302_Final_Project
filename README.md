@@ -52,9 +52,9 @@
  
   - This is what we want for our communication systems!
 
-- So, it shouldn't be surprising that we are interested in *connected networks*
+- So, it shouldn't be surprising that we are interested in connected networks
 
-  - Specifically, we are interested in the minimum device range necessary to create a *connected* path
+  - Specifically, we are interested in the minimum device range necessary to create a connected path
  
 ## Goal
 
