@@ -70,10 +70,6 @@ The project specifications are provided in the downloadable pdf below:
 
 - Additionally, we want to study the distribution of $R_c$ for different configurations of nodes
 
-<p align="center">
-<img src="./img/distribution.png" width="80%"/>
-</p>
-
 # Simulation Study for Ad Hoc Network
 
 1. We will randomly generate nodes for an ad hoc network according to some pre-specified node density
@@ -98,6 +94,12 @@ The project specifications are provided in the downloadable pdf below:
 3. Repeat several times for each $n$
 
 4. Study the distribution of $R_c$
+
+The results I got are shown below:
+
+<p align="center">
+<img src="./img/distribution.png" width="80%"/>
+</p>
 
 ---
 
