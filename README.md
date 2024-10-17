@@ -81,9 +81,7 @@
   <img src="./img/contour_2d.png" height="300" /> 
 </p>
 
-## Simulation Study for Ad Hoc Network
-
-1. We will randomly generate $n$ nodes for an ad hoc network according to some pre-specified node density (generally determined by the geographical information). Specifically, we will use the acceptance-rejection algorithm.
+2. We will randomly generate $n$ nodes for an ad hoc network according to some pre-specified node density (generally determined by the geographical information). Specifically, we will use the acceptance-rejection algorithm.
 
 - Generate points uniformly in a three-dimensional rectangle.
 
@@ -91,15 +89,13 @@
 
 - Use the $(x,y)$ coordinates of these accepted points as our sample.
 
-## Simulation Study for Ad Hoc Network
+3. We will randomly generate $n$ nodes for an ad hoc network according to some pre-specified node density (generally determined by the geographical information).
 
-1. We will randomly generate $n$ nodes for an ad hoc network according to some pre-specified node density (generally determined by the geographical information).
+4. Find the smallest $R_c$ such that the nodes are connected through paths in the network.
 
-2. Find the smallest $R_c$ such that the nodes are connected through paths in the network.
+5. Repeat several times for each $n$.
 
-3. Repeat several times for each $n$.
-
-4. Study the distribution of $R_c$.
+6. Study the distribution of $R_c$.
 
 A more detailed specification is provided in the pdf file below:
 
