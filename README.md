@@ -30,7 +30,7 @@
 
   - *Line segments (and the node shape) signify connected nodes in the network*
 
-  - In this case, nodes within $3.75 \text{ units}$ of each other are connected
+  - In this case, all nodes within $3.75 \text{ units}$ of each other are connected
 
 <p align="center">
 <img src="./img/rc_maximum.png" width="500"/>
@@ -38,9 +38,9 @@
 
 - Above is an **ad hoc wireless network** with 0 disconnected clusters/components (fully connected)
 
-  - In this case, $R_c = 14.6896$ such that nodes within $14.6896 \text{ units}$ of each other are connected
+  - In this case, $\text{maximum } R_c = 40.3285$ such that nodes within $40.3285 \text{ units}$ of each other are connected
  
-  - For this distribution of devices, $14.6896$ is the minimum line segment length necessary to create a fully connected network
+  - For this distribution of devices, $40.3285$ is the minimum line segment length necessary to create a fully connected network
 
 # Connected Ad Hoc Network
 
