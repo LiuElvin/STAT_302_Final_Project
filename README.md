@@ -21,7 +21,7 @@
 ## Examples of the Ad Hoc Network
 
 <p align="center">
-<img src="./img/rc_3.png" width="500"/>
+<img src="./img/rc_example.png" width="500"/>
 </p>
 
 - Above is an **ad hoc wireless network** with 6 disconnected clusters/components
@@ -30,10 +30,10 @@
 
   - *Line segments (and the node shape) signify connected nodes in the network*
 
-  - In this case, $R_c = 3.75$ such that nodes within $3.75 \text{ units}$ of each other are connected
+  - In this case, nodes within $3.75 \text{ units}$ of each other are connected
 
 <p align="center">
-<img src="./img/rc_15.png" width="500"/>
+<img src="./img/rc_maximum.png" width="500"/>
 </p>
 
 - Above is an **ad hoc wireless network** with 0 disconnected clusters/components (fully connected)
