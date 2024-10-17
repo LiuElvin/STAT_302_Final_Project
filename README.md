@@ -58,6 +58,10 @@
 
 - Given a particular configuration of nodes, we want to know the smallest radius $R_c$ that makes a connected network
 
+<p align="center">
+<img src="./img/rc_15.png" width="500"/>
+</p>
+
 - Additionally, we want to study the distribution of $R_c$ for different configurations of nodes
 
 # Simulation Study for Ad Hoc Network
