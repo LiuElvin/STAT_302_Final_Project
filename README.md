@@ -8,7 +8,7 @@
 
   - More specifically, calls are relayed from base station to base station as our cell phone moves
  
-  - This can influence the quality of our phone calls when our cell phones are far away from the nearest base station
+  - This can influence the quality of our phone calls when we're far away from the nearest base station
 
 - The **ad hoc wireless network** instead relays messages via other devices in the network
 
