@@ -44,7 +44,7 @@
 
   - In this case, $R[c] = 20.6265$ such that nodes within $20.6265 \text{ units}$ of each other are connected
  
-  - For this distribution of devices, 20.6265 is the minimum line segment length necessary to create a fully connected network
+  - For this distribution of devices, $20.6265$ is the minimum line segment length necessary to create a fully connected network
 
 ## Connected Ad Hoc Network
 
