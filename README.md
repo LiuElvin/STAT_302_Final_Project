@@ -1,14 +1,14 @@
 # Ad hoc Network (STAT 302 Final Project)
 
-# What is an Ad Hoc Wireless Network?
+# What is an Ad hoc Network?
 
-- Nowadays, we rely heavily on our cell phones to receive messages and communicate with others around the world.
+- Nowadays, we rely heavily on our cell phones to receive messages and communicate with others around the world
 
-- Traditionally, our cell phones need to communicate with a nearby base station in order to send and received calls.
+- Traditionally, these cell phones needed to communicate with a nearby base station in order to send and receive calls
 
-  - Calls	are relayed from base stations to base stations as the cell phone moves.
-  
-  - This may influence the quality of our calls when our cell phones are far away from the nearest base station.
+  - More specifically, calls are relayed from base station to base station as our cell phone moves
+ 
+  - This can influence the quality of our phone calls when our cell phones are far away from the nearest base station
 
 - The **ad hoc wireless network** instead relays messages via other devices in the network.
 
@@ -25,9 +25,6 @@
 # Connected Ad Hoc Network
 
 - We are interested in those connected networks.
-  
-<!-- - There is at least one path between each pair of devices in the network.
--->
   
 - Given a particular configuration of nodes, we want to know the smallest radius $R_c$ that makes a connected network.
 
