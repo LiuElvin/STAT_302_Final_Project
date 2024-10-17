@@ -1,6 +1,6 @@
 # Ad hoc Network (STAT 302 Final Project)
 
-# What is an Ad hoc Network?
+## What is an Ad hoc Network?
 
 - Nowadays, we rely heavily on our cell phones to receive messages and communicate with others around the world
 
@@ -18,11 +18,21 @@
   
   - Devices can dynamically enter and exit the network
 
-## An Example of the Ad Hoc Network
+## Examples of the Ad Hoc Network
 
-- An ad hoc network with 6 disconnected clusters/components.
+- An **ad hoc wireless network** with 6 disconnected clusters/components
 
-# Connected Ad Hoc Network
+<p align="center">
+<img src="./img/ad_hoc6.png" width="300"/>
+</p>
+
+- An **ad hoc wireless network** with 0 disconnected clusters/components
+
+<p align="center">
+<img src="./img/ad_hoc6.png" width="300"/>
+</p>
+
+## Connected Ad Hoc Network
 
 - We are interested in those connected networks.
   
@@ -30,7 +40,7 @@
 
 - We also want to study the distribution of $R_c$ for different configurations of the nodes.
 
-# Simulation Study for Ad Hoc Network
+## Simulation Study for Ad Hoc Network
 
 1. We will randomly generate nodes for an ad hoc network according to some pre-specified node density (generally determined by the geographical information).
 
@@ -40,7 +50,7 @@
 </p>
 
 
-# Simulation Study for Ad Hoc Network
+## Simulation Study for Ad Hoc Network
 
 1. We will randomly generate $n$ nodes for an ad hoc network according to some pre-specified node density (generally determined by the geographical information). Specifically, we will use the acceptance-rejection algorithm.
 
@@ -50,7 +60,7 @@
 
 - Use the $(x,y)$ coordinates of these accepted points as our sample.
 
-# Simulation Study for Ad Hoc Network
+## Simulation Study for Ad Hoc Network
 
 1. We will randomly generate $n$ nodes for an ad hoc network according to some pre-specified node density (generally determined by the geographical information).
 
@@ -66,13 +76,13 @@ A more detailed specification is provided in the pdf file below:
 
 ---
 
-# Contributions
+## Contributions
 
 - The spec provided me the nodeDensity function alongside the first two test cases.
 
 - I worked on this project alone, so the remaining R code was done by me.
 
-# Learning Outcomes
+## Learning Outcomes
 
 - Application of the R functions learnt in STAT 302 (ggplot, for loops, while loops, apply functions, etc.).
 
