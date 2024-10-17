@@ -24,7 +24,7 @@
 
   - Note that each node corresponds to an arbitrary device in (x, y) space
 
-  - Line segments (and the node shape/color) show connected nodes in the network
+  - Line segments (and the node shape) signify connected nodes in the network
 
   - In this case, $R[c] = 3.75$ such that nodes within 3.75 units of each other are connected
 
