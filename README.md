@@ -46,7 +46,7 @@
 
 # Connected Ad Hoc Network
 
-- An **ad hoc network** is *connected* if any abitrary node can reach every other node by traversing across line segments
+- An **ad hoc network** is *connected* if any abitrary node can traverse across line segments reach every other node
 
   - In non technical terms, a network is *connected* if any device can communicate with any device it desires
  
