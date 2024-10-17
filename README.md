@@ -29,13 +29,15 @@
   - In this case, $R[c]$ = 3.75 such that nodes within 3.75 units of each other are connected
 
 <p align="center">
-<img src="./img/rc_3.5.png" width="500"/>
+<img src="./img/rc_3.png" width="500"/>
 </p>
 
 - An **ad hoc wireless network** with 0 disconnected clusters/components (fully connected)
 
+  - In this case, $R[c]$ = 3.75 such that nodes within 3.75 units of each other are connected
+
 <p align="center">
-<img src="./img/ad_hoc6.png" width="300"/>
+<img src="./img/rc_20.png" width="300"/>
 </p>
 
 ## Connected Ad Hoc Network
