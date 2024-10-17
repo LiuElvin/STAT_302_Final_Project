@@ -109,8 +109,10 @@ A more detailed specification is provided in the pdf file below:
 
 - I worked on this project alone, so the remaining R code was done by me.
 
-## Learning Outcomes
+# Learning Outcomes
 
-- Application of the R functions learnt in STAT 302 (ggplot, for loops, while loops, apply functions, etc.).
+- Application of R packages and functions learnt in STAT 302 (tidyverse, ggplot, etc.)
 
-- Application of linear algebra to produce sparse networks (knowledge of transition matrices, eigenvalues, etc. provided the theoretical backbone for why the algorithm produces a sparse network).
+- Application of linear algebra to produce sparse networks
+
+  - Transition matrices, eigenvalues, etc. provide theoretical backbone for why algorithms produce sparse network
