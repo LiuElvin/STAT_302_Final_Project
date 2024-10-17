@@ -111,7 +111,7 @@ A more detailed specification is provided in the pdf file below:
 
 - The spec provided me the nodeDensity function alongside the first two test cases
 
-  - All credit for the spec and corresponding functions go to my instructor, [Yikun Zhang](https://zhangyk8.github.io/teaching/stat302_uw)
+  - All credit for the spec and corresponding functions go to my instructor, [Yikun Zhang](https://zhangyk8.github.io/)
  
 - I worked on the project alone, so all remaining R code was completed by myself
 
