@@ -10,15 +10,15 @@
  
   - This can influence the quality of our phone calls when our cell phones are far away from the nearest base station
 
-- The **ad hoc wireless network** instead relays messages via other devices in the network.
+- The **ad hoc wireless network** instead relays messages via other devices in the network
 
-  - There are no centralized nodes or fixed structures.
-  
-  - Devices can dynamically enter and exit the network.
-  
-  - A Message hops from one device to the next until it reaches its destination.
+  - A message hops from one device to the next until it reaches its destination
 
-# An Example of the Ad Hoc Network
+  - There are no centralized nodes or fixed structures (such as base stations)
+  
+  - Devices can dynamically enter and exit the network
+
+## An Example of the Ad Hoc Network
 
 - An ad hoc network with 6 disconnected clusters/components.
 
