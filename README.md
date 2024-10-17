@@ -74,9 +74,21 @@
 
 1. We will randomly generate nodes for an ad hoc network according to some pre-specified node density (generally determined by the geographical information).
 
+.pull-left[
+
 <p align="center">
 <img src="./img/contour_3d.jpeg" width="400"/>
 </p>
+
+]
+
+.pull-right[
+
+<p align="center">
+<img src="./figures/contour_2d.png" width="400"/>
+</p>
+
+]
 
 ## Simulation Study for Ad Hoc Network
 
