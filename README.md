@@ -38,7 +38,7 @@
 
 - Above is an **ad hoc wireless network** with 0 disconnected clusters/components (fully connected)
 
-  - In this case, $R_c = 20.6265$ such that nodes within $20.6265 \text{ units}$ of each other are connected
+  - In this case, $R_c = 14.6896$ such that nodes within $20.6265 \text{ units}$ of each other are connected
  
   - For this distribution of devices, $20.6265$ is the minimum line segment length necessary to create a fully connected network
 
