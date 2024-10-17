@@ -54,7 +54,7 @@
 
 
 <p align="center">
-<img src="./img/contour_3d.jpeg" width="300"/>
+<img src="./img/contour_3d.jpeg" width="500"/>
 </p>
 
 
