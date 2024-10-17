@@ -2,7 +2,7 @@
 
 The project specifications are provided in the downloadable pdf below:
 
-[Project Description](https://raw.githubusercontent.com/zhangyk8/zhangyk8.github.io/master/_teaching/file_stat302/Lectures/Final_Project.pdf)
+[STAT 302 Final Project Description](https://raw.githubusercontent.com/zhangyk8/zhangyk8.github.io/master/_teaching/file_stat302/Lectures/Final_Project.pdf)
 
 # What is an Ad hoc Network?
 
