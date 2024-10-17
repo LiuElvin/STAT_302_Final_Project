@@ -26,7 +26,7 @@
 
   - Line segments (and the node shape) signify connected nodes in the network
 
-  - In this case, $R[c] = 3.75$ such that nodes within 3.75 units of each other are connected
+  - In this case, $R[c]$ = 3.75 such that nodes within 3.75 units of each other are connected
 
 <p align="center">
 <img src="./img/rc_3.5.png" width="500"/>
