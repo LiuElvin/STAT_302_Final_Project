@@ -92,16 +92,12 @@ The project specifications are provided in the downloadable pdf below:
   - If the points fall in the three-dimensional region beneath the density, then keep them
  
   - Use the $(x, y)$ coordinates of the accepted points as our sample
+ 
+2. Find the smallest $R_c$ such that the nodes are connected through paths in the network
 
-3. We will randomly generate $n$ nodes for an ad hoc network according to some pre-specified node density (generally determined by the geographical information).
+3. Repeat several times for each $n$
 
-4. Find the smallest $R_c$ such that the nodes are connected through paths in the network.
-
-5. Repeat several times for each $n$.
-
-6. Study the distribution of $R_c$.
-
-A more detailed specification is provided in the pdf file below:
+4. Study the distribution of $R_c$
 
 ---
 
