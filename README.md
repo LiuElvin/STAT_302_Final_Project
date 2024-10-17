@@ -26,7 +26,7 @@
 
   - *Line segments (and the node shape) signify connected nodes in the network*
 
-  - In this case, $R[c]$ = 3.75 such that nodes within 3.75 units of each other are connected
+  - In this case, $R[c] = 3.75$ such that nodes within $3.75 \text{units}$ of each other are connected
 
 <p align="center">
 <img src="./img/rc_3.png" width="500"/>
@@ -36,9 +36,9 @@
 
   - *Note that each node corresponds to an arbitrary device in (x, y) space*
 
-  - *Line segments (and the node shape) signify connected nodes in the network*
+  - *Line segments signify connected nodes in the network*
 
-  - In this case, $R[c]$ = 20.6265 such that nodes within 20.6265 units of each other are connected
+  - In this case, $R[c] = 20.6265$ such that nodes within $20.6265 \text{units}$ of each other are connected
  
   - 20.6265 is the minimum line segment length necessary to create a fully connected network
 
