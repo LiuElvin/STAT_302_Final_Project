@@ -78,20 +78,20 @@ The project specifications are provided in the downloadable pdf below:
 
 1. We will randomly generate nodes for an ad hoc network according to some pre-specified node density
 
-   - Generally determined by geographical information
+   - Node density is generally determined by geographical information (i.e. rivers)
 
 <p float="left">
   <img src="./img/contour_3d.jpeg" height="300" />
   <img src="./img/contour_2d.png" height="300" /> 
 </p>
 
-2. We will randomly generate $n$ nodes for an ad hoc network according to some pre-specified node density (generally determined by the geographical information). Specifically, we will use the acceptance-rejection algorithm.
+- We will use the acceptance rejection algorithm for random node generation
 
-- Generate points uniformly in a three-dimensional rectangle.
-
-- If the points fall in the three-dimensional region beneath the density, then we keep them.
-
-- Use the $(x,y)$ coordinates of these accepted points as our sample.
+  - Generate points uniformly in a three-dimensional rectangle
+ 
+  - If the points fall in the three-dimensional region beneath the density, then keep them
+ 
+  - Use the $(x, y)$ coordinates of the accepted points as our sample
 
 3. We will randomly generate $n$ nodes for an ad hoc network according to some pre-specified node density (generally determined by the geographical information).
 
@@ -102,8 +102,6 @@ The project specifications are provided in the downloadable pdf below:
 6. Study the distribution of $R_c$.
 
 A more detailed specification is provided in the pdf file below:
-
-
 
 ---
 
