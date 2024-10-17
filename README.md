@@ -101,7 +101,7 @@ The results I got are shown below:
 <img src="./img/distribution.png" width="80%"/>
 </p>
 
-Some graphs of the networks I produced are in the .img file of GitHub
+Some graphs of the networks I produced are below
 
 ---
 
