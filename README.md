@@ -23,7 +23,7 @@
 - An **ad hoc wireless network** with 6 disconnected clusters/components
 
 <p align="center">
-<img src="./img/rc_3.5.png" width="300"/>
+<img src="./img/rc_3.5.png" width="700"/>
 </p>
 
 - An **ad hoc wireless network** with 0 disconnected clusters/components (fully connected)
