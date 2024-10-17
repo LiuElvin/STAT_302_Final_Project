@@ -66,6 +66,10 @@
 
 - Additionally, we want to study the distribution of $R_c$ for different configurations of nodes
 
+<p align="center">
+<img src="./img/distribution.png" width="500"/>
+</p>
+
 # Simulation Study for Ad Hoc Network
 
 1. We will randomly generate nodes for an ad hoc network according to some pre-specified node density (generally determined by the geographical information).
