@@ -4,7 +4,7 @@
 
 - Nowadays, we rely on our cell phones to receive messages and communicate with others around the world
 
-- Traditionally, these cell phones needed to communicate with a nearby base station in order to send and receive calls
+- Traditionally, cell phones needed to communicate with a nearby base station to send and receive calls
 
   - More specifically, calls are relayed from base station to base station as our cell phone moves
  
