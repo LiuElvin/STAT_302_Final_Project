@@ -14,7 +14,7 @@
 
   - A message hops from one device to the next until it reaches its destination
 
-  - There are no centralized nodes or fixed structures (such as base stations)
+  - There are no centralized nodes or fixed structures (such as routers)
   
   - Devices can dynamically enter and exit the network
 
@@ -30,7 +30,7 @@
 
   - *Line segments (and the node shape) signify connected nodes in the network*
 
-  - In this case, $R[c] = 3.75$ such that nodes within $3.75 \text{ units}$ of each other are connected
+  - In this case, $R_c = 3.75$ such that nodes within $3.75 \text{ units}$ of each other are connected
 
 <p align="center">
 <img src="./img/rc_20.png" width="500"/>
@@ -38,17 +38,19 @@
 
 - Above is an **ad hoc wireless network** with 0 disconnected clusters/components (fully connected)
 
-  - *Note that each node corresponds to an arbitrary device in (x, y) space*
-
-  - *Line segments signify connected nodes in the network*
-
-  - In this case, $R[c] = 20.6265$ such that nodes within $20.6265 \text{ units}$ of each other are connected
+  - In this case, $R_c = 20.6265$ such that nodes within $20.6265 \text{ units}$ of each other are connected
  
   - For this distribution of devices, $20.6265$ is the minimum line segment length necessary to create a fully connected network
 
-## Connected Ad Hoc Network
+# Connected Ad Hoc Network
 
-- We are interested in those connected networks.
+- An **ad hoc network** is *connected* if any abitrary node can reach every other node by traversing across line segments
+
+  - In non technical terms, a network is *connected* if any device can communicate with any device it desires
+ 
+  - This is what we want for our communication systems!
+
+- So, it shouldn't be surprising that we are interested in *connected networks*
   
 - Given a particular configuration of nodes, we want to know the smallest radius $R_c$ that makes a connected network.
 
