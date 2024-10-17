@@ -42,7 +42,7 @@
  
   - For these devices, $40.3285$ is the minimum line segment length necessary for a fully connected network
 
-    - (Look at the super long line at the bottom! If $\text{maximum } R_c < 40.3285$, then the node there would be disconnected)
+    - (i.e. if $\text{maximum } R_c < 40.3285$, then the node at the very bottom would be disconnected)
 
 # Connected Ad Hoc Network
 
