@@ -101,7 +101,9 @@ The results I got are shown below:
 <img src="./img/distribution.png" width="80%"/>
 </p>
 
-Some graphs of the networks I produced are below
+The graphs of the networks I produced and final results are in the knitted RMarkdown file below:
+
+[Knitted Results]([https://github.com/](https://github.com/LiuElvin/STAT_302_Final_Project/blob/main/knitted_pdf/Ad_Hoc_Wireless_Network.pdf)
 
 ---
 
