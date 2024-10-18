@@ -101,9 +101,18 @@ The results I got are shown below:
 <img src="./img/distribution.png" width="80%"/>
 </p>
 
-The graphs of the networks I produced and final results are in the knitted RMarkdown file below:
+The networks I produced and final results are in the knitted RMarkdown file below:
 
 [Knitted Results](https://github.com/LiuElvin/STAT_302_Final_Project/blob/main/knitted_pdf/Ad_Hoc_Wireless_Network.pdf)
+
+# Results
+
+A couple of connected graph examples for random node distributions
+
+<p float="left">
+  <img src="./img/rc_maximum.png" width="40%" />
+  <img src="./img/rc_mean.png" width="40%" /> 
+</p>
 
 ---
 
