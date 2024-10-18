@@ -105,7 +105,7 @@ The networks I produced and final results are in the knitted RMarkdown file belo
 
 [Knitted Results](https://github.com/LiuElvin/STAT_302_Final_Project/blob/main/knitted_pdf/Ad_Hoc_Wireless_Network.pdf)
 
-# Results
+# More Example Graphs
 
 A couple of connected graph examples for random node distributions
 
