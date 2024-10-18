@@ -109,9 +109,12 @@ The networks I produced and final results are in the knitted RMarkdown file belo
 
 A couple of connected graph examples for random node distributions
 
-<p float="left">
-  <img src="./img/rc_maximum.png" width="40%" />
-  <img src="./img/rc_mean.png" width="40%" /> 
+<p align="center">
+<img src="./img/rc_minimum.png" width="80%"/>
+</p>
+
+<p align="center">
+<img src="./img/rc_mean.png" width="80%"/>
 </p>
 
 ---
