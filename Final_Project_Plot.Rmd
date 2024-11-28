@@ -1,0 +1,35 @@
+---
+title: "Final_Project_Plot"
+author: "Elvin Liu"
+date: "2024-3-1"
+output: pdf_document
+---
+
+```{r}
+source("nodeDensity.R")
+source("surface.R")
+
+jpeg(file="contour_3d.jpeg")
+surface(nodeDensity(x, y), from.x=-1, to.x=100, from.y=-1, to.y=100, n.x=100, n.y=100, theta=30, phi=25, ticktype="detailed", mar=c(0,0,0,0))
+dev.off()
+
+```
+
+```{r}
+library(plotly)
+library(reticulate)
+use_python("/usr/bin/python3", required = TRUE)
+x = 1:100
+y = 1:100
+z = matrix(0, nrow = length(x), ncol = length(y))
+for(i in 1:length(x)) {
+  for (j in 1:length(y)) {
+    z[i,j] = nodeDensity(x[i], y[j])
+  }
+}
+fig <- plot_ly(x=x, y=y, z=z, type = "contour", xaxis = "x", yaxis="y", width = 600, height = 500)
+fig
+save_image(fig, "contour_2d.jpg")
+# kaleidoscope(fig, "contour_2d.pdf")
+```
+
